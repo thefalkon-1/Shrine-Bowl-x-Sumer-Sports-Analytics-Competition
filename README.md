@@ -1,4 +1,4 @@
-# Shrine Bowl Summer Sports Analytics Competition
+# Shrine Bowl x Sumer Sports Analytics Competition
 
 Notebooks and data for identifying OL-DL 1v1 reps from Shrine Bowl practice tracking, engineering rep features (including contact onset), and computing evaluation metrics.
 
